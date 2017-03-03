@@ -1,0 +1,6 @@
+zgrep -Hiw "" ./RESERVOIR/01*txt.gz
+zgrep -Hiw "" ./RESERVOIR/08*txt.gz
+zgrep -Hiw "" ./RESERVOIR/0c*txt.gz
+zgrep -Hiw "" ./RESERVOIR/0f*txt.gz
+zgrep -Hiw "" ./RESERVOIR/1a*txt.gz
+
